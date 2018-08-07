@@ -21,39 +21,39 @@ GRE SUB-CHEM: 910, 98%
 
 ### Research towards total synthesis of phainanoid A
 
-Extend carbon chain with successive Grignard reaction and Johnson-Claisen rearrangement
+- Extend carbon chain with successive Grignard reaction and Johnson-Claisen rearrangement
 
-Radical cascade reaction to build 6-6-5 ring system
+- Radical cascade reaction to build 6-6-5 ring system
 
 ### Research towards total synthesis of (–)-Actinophyllic acid
 
-Explored 10 g-scale [3+2] cycloaddition reaction and relevant separation process
+- Explored 10 g-scale [3+2] cycloaddition reaction and relevant separation process
 
-Mastered corresponding reductive decyanation reaction
+- Mastered corresponding reductive decyanation reaction
 
-Regulation based on multiple protecting groups
+- Regulation based on multiple protecting groups
 
-Achieved C–H activation of indole for eight-membered lactamization
+- Achieved C–H activation of indole for eight-membered lactamization
 
-Core skeleton of (–)-Actinophyllic acid completed
+- Core skeleton of (–)-Actinophyllic acid completed
 
 ### International Genetically Engineered Machine Competition (iGEM)
 
-Invovled as an advisor
+- Invovled as an advisor
 
-Came up with a T7 amplifying system to detect arsenic pollution
+- Came up with a T7 amplifying system to detect arsenic pollution
 
-XMU-China Team won the Gold Award in 2017
+- XMU-China Team won the Gold Award in 2017
 
 __________
 
 ## Awards & Honors
 
-Wenqing Scholarship (18/14181)  Apr. 2018
+- Wenqing Scholarship (18/14181)  Apr. 2018
 
-National Scholarship (2/132)	Nov. 2017
+- National Scholarship (2/132)	Nov. 2017
 
-National Scholarship (2/95)	Nov. 2016
+- National Scholarship (2/95)	Nov. 2016
 
 ### Other Awards
 
