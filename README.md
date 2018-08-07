@@ -1,6 +1,16 @@
 ## Education
 
-Xiamen University
+Xiamen University (XMU)
+
+Major: Chemistry
+
+Major GPA: 3.88/4.0
+
+Rank: 1/132
+
+GRE: 154/V+169/Q+3.5/AW;
+
+GRE SUB-CHEM: 910, 98%
 
 ## Publication
 
@@ -9,25 +19,42 @@ Xiamen University
 
 ## Academic Experience
 
+### Research towards total synthesis of (–)-Actinophyllic acid
+
+Explored 10 g-scale [3+2] cycloaddition reaction and relevant separation process
+
+Mastered corresponding reductive decyanation reaction
+
+Regulation based on multiple protecting groups
+
+Achieved C–H activation of indole for eight-membered lactamization
+
+Core skeleton of (–)-Actinophyllic acid completed
+
+### International Genetically Engineered Machine Competition (iGEM)
 
 
+__________
 
 ## Awards & Honors
 
-Merit Student, XMU	Dec. 2017
+Wenqing Scholarship (18/14181)  Apr. 2018
 
 National Scholarship (2/132)	Nov. 2017
+
+National Scholarship (2/95)	Nov. 2016
+
+### Other Awards
+
+Merit Student, XMU	Dec. 2017
 
 First Prize in 11th Yumiao Cup Chemistry Knowledge contest, XMU	May. 2017
 
 Outstanding Merit Student, XMU	Dec. 2016
 
-National Scholarship (2/95)	Nov. 2016
-
 First Prize in 10th Yumiao Cup Chemistry Knowledge contest, XMU	May. 2016
 
 Merit Student of Military Training, XMU	Sept. 2015
-
 
 ### Markdown
 
