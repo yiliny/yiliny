@@ -19,9 +19,7 @@ GRE SUB-CHEM: 910, 98%
 
 1. J. Li, **Y. Ye**, Y. Zhang, _Org. Chem. Front_., **2018**, _5_, 864-892. [doi](http://pubs.rsc.org/en/Content/ArticleLanding/2018/QO/C7QO01077J)
 
-<div align=center>
-![image](/yiliny.github.io/GA.pdf)
-</div>
+<div align=center>![image](/yiliny.github.io/GA.pdf)
 
 ## Academic Experience
 
@@ -43,9 +41,7 @@ GRE SUB-CHEM: 910, 98%
 
 - Core skeleton of (–)-Actinophyllic acid completed
 
-<div align=center>
-![image](/yiliny.github.io/路线精简.pdf)
-</div>
+<div align=center>![image](/yiliny.github.io/路线精简.pdf)
 
 ### International Genetically Engineered Machine Competition (iGEM)
 
@@ -55,9 +51,7 @@ GRE SUB-CHEM: 910, 98%
 
 - XMU-China Team won the Gold Award in 2017
 
-<div align=center>
-![image](/yiliny.github.io/XMU-China presentation.pdf)
-</div>
+<div align=center>![image](/yiliny.github.io/XMU-China presentation.pdf)
 
 ## Awards & Honors
 
