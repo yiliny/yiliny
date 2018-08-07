@@ -19,6 +19,12 @@ GRE SUB-CHEM: 910, 98%
 
 ## Academic Experience
 
+### Research towards total synthesis of phainanoid A
+
+Extend carbon chain with successive Grignard reaction and Johnson-Claisen rearrangement
+
+Radical cascade reaction to build 6-6-5 ring system
+
 ### Research towards total synthesis of (–)-Actinophyllic acid
 
 Explored 10 g-scale [3+2] cycloaddition reaction and relevant separation process
@@ -33,6 +39,11 @@ Core skeleton of (–)-Actinophyllic acid completed
 
 ### International Genetically Engineered Machine Competition (iGEM)
 
+Invovled as an advisor
+
+Came up with a T7 amplifying system to detect arsenic pollution
+
+XMU-China Team won the Gold Award in 2017
 
 __________
 
