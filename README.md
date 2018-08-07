@@ -8,6 +8,8 @@ Major GPA: 3.88/4.0
 
 Rank: 1/132
 
+TOEFL: 103 (R28 L25 S23 W27)
+
 GRE: 154/V+169/Q+3.5/AW;
 
 GRE SUB-CHEM: 910, 98%
@@ -46,6 +48,8 @@ GRE SUB-CHEM: 910, 98%
 - Came up with a T7 amplifying system to detect arsenic pollution
 
 - XMU-China Team won the Gold Award in 2017
+
+![image](/yiliny.github.io/XMU-China presentation.pdf)
 
 ## Awards & Honors
 
