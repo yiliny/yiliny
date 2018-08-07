@@ -37,6 +37,8 @@ GRE SUB-CHEM: 910, 98%
 
 - Core skeleton of (–)-Actinophyllic acid completed
 
+![image](/yiliny.github.io/路线精简.pdf)
+
 ### International Genetically Engineered Machine Competition (iGEM)
 
 - Invovled as an advisor
