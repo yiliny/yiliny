@@ -10,7 +10,7 @@ Rank: 1/132
 
 TOEFL: 103 (R28 L25 S23 W27)
 
-GRE: 154/V+169/Q+3.5/AW;
+GRE: 154/V+169/Q+3.5/AW
 
 GRE SUB-CHEM: 910, 98%
 
@@ -19,7 +19,9 @@ GRE SUB-CHEM: 910, 98%
 
 1. J. Li, **Y. Ye**, Y. Zhang, _Org. Chem. Front_., **2018**, _5_, 864-892. [doi](http://pubs.rsc.org/en/Content/ArticleLanding/2018/QO/C7QO01077J)
 
+<div align=center>
 ![image](/yiliny.github.io/GA.pdf)
+</div>
 
 ## Academic Experience
 
@@ -41,7 +43,9 @@ GRE SUB-CHEM: 910, 98%
 
 - Core skeleton of (–)-Actinophyllic acid completed
 
+<div align=center>
 ![image](/yiliny.github.io/路线精简.pdf)
+</div>
 
 ### International Genetically Engineered Machine Competition (iGEM)
 
@@ -51,15 +55,17 @@ GRE SUB-CHEM: 910, 98%
 
 - XMU-China Team won the Gold Award in 2017
 
+<div align=center>
 ![image](/yiliny.github.io/XMU-China presentation.pdf)
+</div>
 
 ## Awards & Honors
 
-- Wenqing Scholarship (18/14181)  Apr. 2018
+- Wenqing Scholarship (18 in 14181)  Apr. 2018
 
-- National Scholarship (2/132)	Nov. 2017
+- National Scholarship (2 in 132)	Nov. 2017
 
-- National Scholarship (2/95)	Nov. 2016
+- National Scholarship (2 in 95)	Nov. 2016
 
 ### Other Awards
 
