@@ -45,8 +45,6 @@ GRE SUB-CHEM: 910, 98%
 
 - XMU-China Team won the Gold Award in 2017
 
-__________
-
 ## Awards & Honors
 
 - Wenqing Scholarship (18/14181)  Apr. 2018
