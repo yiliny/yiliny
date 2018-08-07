@@ -15,11 +15,17 @@ Xiamen University
 ## Awards & Honors
 
 Merit Student, XMU	Dec. 2017
+
 National Scholarship (2/132)	Nov. 2017
+
 First Prize in 11th Yumiao Cup Chemistry Knowledge contest, XMU	May. 2017
+
 Outstanding Merit Student, XMU	Dec. 2016
+
 National Scholarship (2/95)	Nov. 2016
+
 First Prize in 10th Yumiao Cup Chemistry Knowledge contest, XMU	May. 2016
+
 Merit Student of Military Training, XMU	Sept. 2015
 
 
