@@ -2,6 +2,27 @@
 
 Xiamen University
 
+## Publication
+
+
+1. J. Li, **Y. Ye**, Y. Zhang, _Org. Chem. Front_., **2018**, _5_, 864-892. [doi](http://pubs.rsc.org/en/Content/ArticleLanding/2018/QO/C7QO01077J)
+
+## Academic Experience
+
+
+
+
+## Awards & Honors
+
+Merit Student, XMU	Dec. 2017
+National Scholarship (2/132)	Nov. 2017
+First Prize in 11th Yumiao Cup Chemistry Knowledge contest, XMU	May. 2017
+Outstanding Merit Student, XMU	Dec. 2016
+National Scholarship (2/95)	Nov. 2016
+First Prize in 10th Yumiao Cup Chemistry Knowledge contest, XMU	May. 2016
+Merit Student of Military Training, XMU	Sept. 2015
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
