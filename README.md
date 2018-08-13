@@ -41,7 +41,7 @@ GRE SUB-CHEM: 910, 98%
 
 - Core skeleton of (–)-Actinophyllic acid completed
 
-<div align=center>![image](/yiliny.github.io/路线精简.pdf)
+![image](/yiliny.github.io/路线精简.pdf)
 
 ### International Genetically Engineered Machine Competition (iGEM)
 
@@ -51,7 +51,7 @@ GRE SUB-CHEM: 910, 98%
 
 - XMU-China Team won the Gold Award in 2017
 
-<div align=center>![image](/yiliny.github.io/XMU-China presentation.pdf)
+![image](/yiliny.github.io/XMU-China presentation.pdf)
 
 ## Awards & Honors
 
