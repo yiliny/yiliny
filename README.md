@@ -4,7 +4,7 @@ Department of Chemistry, Xiamen University
 
 Tel: +86 13030880160
 
-E-mail: yyl.libri@gmail.com
+E-mail: yyl.libri@gmail.com, yiliny@uchicago.edu
 
 ## Education
 
