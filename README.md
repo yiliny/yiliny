@@ -32,7 +32,9 @@ GRE SUB-CHEM: 910, 98%
 
 ### Research towards total synthesis of phainanoid A
 
-Jul. 2018 - Present, Supervisor: Prof. Guangbin Dong, University of Chicago
+Jul. 2018 - Present
+
+Supervisor: Prof. Guangbin Dong, University of Chicago
 
 - Extend carbon chain with successive Grignard reaction and Johnson-Claisen rearrangement
 
@@ -40,7 +42,9 @@ Jul. 2018 - Present, Supervisor: Prof. Guangbin Dong, University of Chicago
 
 ### Research towards total synthesis of (–)-Actinophyllic acid
 
-Jul. 2016 - Jan. 2018, Supervisor: Prof. Yandong Zhang, Xiamen University
+Jul. 2016 - Jan. 2018
+
+Supervisor: Prof. Yandong Zhang, Xiamen University
 
 - Explored 10 g-scale [3+2] cycloaddition reaction and relevant separation process
 
@@ -58,7 +62,9 @@ Jul. 2016 - Jan. 2018, Supervisor: Prof. Yandong Zhang, Xiamen University
 
 ### Mathematical Contest in Modelling (MCM)
 
-Feb. 2018, Supervisor: Zhong Tan, Xiamen University
+Feb. 2018
+
+Supervisor: Zhong Tan, Xiamen University
 
 - Difference equation model
 
@@ -68,7 +74,9 @@ Feb. 2018, Supervisor: Zhong Tan, Xiamen University
 
 ### International Genetically Engineered Machine Competition (iGEM)
 
-Mar. 2017 - Nov. 2017, Supervisor: Baishan Fang, Xiamen University
+Mar. 2017 - Nov. 2017
+
+Supervisor: Baishan Fang, Xiamen University
 
 - Invovled as an advisor
 
@@ -80,7 +88,9 @@ Mar. 2017 - Nov. 2017, Supervisor: Baishan Fang, Xiamen University
 
 ### China Undergraduate Mathematical Contest in Modelling (CUMCM)
 
-Aug. 2017 - Sept. 2017, Supervisor: Huoxiong Wu, Xiamen University
+Aug. 2017 - Sept. 2017
+
+Supervisor: Huoxiong Wu, Xiamen University
 
 - Learned R language & LaTeX
 
