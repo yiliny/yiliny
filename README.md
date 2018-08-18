@@ -16,7 +16,6 @@ GRE SUB-CHEM: 910, 98%
 
 ## Publication
 
-
 1. J. Li, **Y. Ye**, Y. Zhang, _Org. Chem. Front_., **2018**, _5_, 864-892. [doi](http://pubs.rsc.org/en/Content/ArticleLanding/2018/QO/C7QO01077J)
 
 ![Octocat](/yiliny.github.io/GA.pdf)
@@ -27,7 +26,7 @@ GRE SUB-CHEM: 910, 98%
 
 - Extend carbon chain with successive Grignard reaction and Johnson-Claisen rearrangement
 
-- Radical cascade reaction to build 6-6-5 ring system
+- Radical cascade reaction to build 6-6-5 ring system with auxiliary group
 
 ### Research towards total synthesis of (–)-Actinophyllic acid
 
@@ -53,22 +52,10 @@ GRE SUB-CHEM: 910, 98%
 
 ![image](/yiliny.github.io/XMU-China presentation.pdf)
 
-## Awards & Honors
+## Selected Awards
 
 - Wenqing Scholarship (18 in 14181)  Apr. 2018
 
 - National Scholarship (2 in 132)	Nov. 2017
 
 - National Scholarship (2 in 95)	Nov. 2016
-
-### Other Awards
-
-Merit Student, XMU	Dec. 2017
-
-First Prize in 11th Yumiao Cup Chemistry Knowledge contest, XMU	May. 2017
-
-Outstanding Merit Student, XMU	Dec. 2016
-
-First Prize in 10th Yumiao Cup Chemistry Knowledge contest, XMU	May. 2016
-
-Merit Student of Military Training, XMU	Sept. 2015
