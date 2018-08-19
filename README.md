@@ -88,6 +88,8 @@ Supervisor: Baishan Fang, XMU
 
 ![image](/yiliny.github.io/XMU-China presentation.pdf)
 
+![image](/yiliny.github.io/iGEM - XMU 2017.pdf)
+
 ### China Undergraduate Mathematical Contest in Modelling (CUMCM)
 
 Aug. 2017 - Sept. 2017
