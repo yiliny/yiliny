@@ -12,7 +12,7 @@ Xiamen University (XMU)
 
 Major: Chemistry
 
-Overall GPA: 3.9/4.0
+Overall GPA: 3.90/4
 
 Rank: 1/132
 
