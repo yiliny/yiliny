@@ -1,6 +1,6 @@
 # Yilin Ye
 
-Department of Chemistry, Xiamen University
+Department of Chemistry, Xiamen University, Fujian, Xiamen, China
 
 Tel: +86 13030880160
 
@@ -44,7 +44,7 @@ Supervisor: Prof. Guangbin Dong, University of Chicago
 
 Jul. 2016 - Jan. 2018
 
-Supervisor: Prof. Yandong Zhang, Xiamen University
+Supervisor: Prof. Yandong Zhang, XMU
 
 - Explored 10 g-scale [3+2] cycloaddition reaction and relevant separation process
 
@@ -64,7 +64,7 @@ Supervisor: Prof. Yandong Zhang, Xiamen University
 
 Feb. 2018
 
-Supervisor: Zhong Tan, Xiamen University
+Supervisor: Zhong Tan, XMU
 
 - Difference equation model
 
@@ -72,11 +72,13 @@ Supervisor: Zhong Tan, Xiamen University
 
 - Designated as **Honorable Mention**
 
+![image](/yiliny.github.io/88382.pdf)
+
 ### International Genetically Engineered Machine Competition (iGEM)
 
 Mar. 2017 - Nov. 2017
 
-Supervisor: Baishan Fang, Xiamen University
+Supervisor: Baishan Fang, XMU
 
 - Invovled as an advisor
 
@@ -90,7 +92,7 @@ Supervisor: Baishan Fang, Xiamen University
 
 Aug. 2017 - Sept. 2017
 
-Supervisor: Huoxiong Wu, Xiamen University
+Supervisor: Huoxiong Wu, XMU
 
 - Learned R language & LaTeX
 
