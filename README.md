@@ -4,7 +4,7 @@ Department of Chemistry, Xiamen University, Fujian, Xiamen, China
 
 Tel: +86 13030880160
 
-E-mail: yyl.libri@gmail.com, yiliny@uchicago.edu
+E-mail: yyl.libri@gmail.com
 
 ## Education
 
@@ -16,11 +16,11 @@ Overall GPA: 3.90/4
 
 Rank: 1/132
 
-TOEFL: 103 (R28 L25 S23 W27)
+TOEFL: 103 (R28, L25, S23, W27)
 
-GRE: 154/V+169/Q+3.5/AW
+GRE General: 154/V+169/Q+3.5/AW
 
-GRE SUB-CHEM: 910, 98%
+GRE Sub-Chem: 910, 98%
 
 ## Publication
 
@@ -36,7 +36,7 @@ Jul. 2018 - Present
 
 Supervisor: Prof. Guangbin Dong, University of Chicago
 
-- Extend carbon chain with successive Grignard reaction and Johnson-Claisen rearrangement
+- Successive Grignard reaction and Johnson-Claisen rearrangement
 
 - Radical cascade reaction to build 6-6-5 ring system with auxiliary group
 
@@ -50,11 +50,11 @@ Supervisor: Prof. Yandong Zhang, XMU
 
 - Mastered corresponding reductive decyanation reaction
 
-- Regulation based on multiple protecting groups
+- Transformations based on multiple protecting groups
 
-- Achieved C–H activation of indole for eight-membered lactamization
+- Catellani-type alkylation of indole for eight-membered lactamization
 
-- Core skeleton of (–)-Actinophyllic acid completed
+- Completed Core skeleton of (–)-Actinophyllic acid
 
 ![image](/yiliny.github.io/路线精简.pdf)
 
