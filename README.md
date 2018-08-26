@@ -38,7 +38,9 @@ Supervisor: Prof. Guangbin Dong, University of Chicago
 
 - Successive Grignard reaction and Johnson-Claisen rearrangement
 
-- Radical cascade reaction to build 6-6-5 ring system with auxiliary group
+- Radical cascade reaction to build 6-6-5 ring system 
+
+- Stereoselective synthesis with auxiliary group
 
 ### Research towards total synthesis of (–)-Actinophyllic acid
 
