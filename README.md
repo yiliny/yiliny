@@ -12,7 +12,7 @@ Xiamen University (XMU)
 
 Major: Chemistry
 
-Overall GPA: 3.90/4
+Overall GPA: 3.89/4
 
 Rank: 1/132
 
@@ -32,7 +32,7 @@ GRE Sub-Chem: 910, 98%
 
 ### Research towards total synthesis of phainanoid A
 
-Jul. 2018 - Present
+Jul. 2018 - Oct. 2018
 
 Supervisor: Prof. Guangbin Dong, University of Chicago
 
@@ -41,6 +41,8 @@ Supervisor: Prof. Guangbin Dong, University of Chicago
 - Radical cascade reaction to build 6-6-5 ring system 
 
 - Stereoselective synthesis with auxiliary group
+
+- ee measurement with HPLC
 
 ### Research towards total synthesis of (–)-Actinophyllic acid
 
