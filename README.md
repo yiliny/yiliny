@@ -20,7 +20,7 @@ TOEFL: 103 (R28, L25, S23, W27)
 
 GRE General: 154/V+169/Q+3.5/AW
 
-GRE Sub-Chem: 910, 98%
+GRE Sub-Chem: 910, 99%
 
 ## Publication
 
