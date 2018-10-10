@@ -14,7 +14,7 @@ Major: Chemistry
 
 Overall GPA: 3.89/4
 
-Rank: 1/132
+Rank: 1/128
 
 TOEFL: 103 (R28, L25, S23, W27)
 
@@ -36,13 +36,23 @@ Jul. 2018 - Oct. 2018
 
 Supervisor: Prof. Guangbin Dong, University of Chicago
 
-- Successive Grignard reaction and Johnson-Claisen rearrangement
+- Decagram-scale Grignard reaction and Johnson-Claisen rearrangement
 
-- Radical cascade reaction to build 6-6-5 ring system 
+- Ester condensation yield improvement
 
-- Stereoselective synthesis with auxiliary group
+- Stereoselective radical cascade reaction with chiral auxiliary for 6-6-5 tricyclic system
 
 - ee measurement with HPLC
+
+### Research towards total synthesis of Atkamine
+
+Jan. 2018 - May. 2018
+
+Supervisor: Prof. Yandong Zhang, XMU
+
+- Ox-Red-Ox transformation in tandem
+
+- Attempted visible-light-driven thiocarboxylation
 
 ### Research towards total synthesis of (–)-Actinophyllic acid
 
@@ -50,15 +60,15 @@ Jul. 2016 - Jan. 2018
 
 Supervisor: Prof. Yandong Zhang, XMU
 
-- Explored 10 g-scale [3+2] cycloaddition reaction and relevant separation process
+- Decagram-scale [3+2] cycloaddition reaction and separation process
 
-- Mastered corresponding reductive decyanation reaction
+- Mastered reductive decyanation reaction
 
-- Transformations based on multiple protecting groups
+- Various protecting-group transformations
 
 - Catellani-type alkylation of indole for eight-membered lactamization
 
-- Completed Core skeleton of (–)-Actinophyllic acid
+- Completed core skeleton of (–)-actinophyllic acid
 
 ![image](/yiliny.github.io/路线精简.pdf)
 
@@ -86,7 +96,7 @@ Supervisor: Baishan Fang, XMU
 
 - Invovled as an advisor
 
-- Came up with a T7 amplifying system to detect arsenic pollution
+- T7 amplifying system to detect arsenic pollution
 
 - XMU-China Team won the **Gold Award** in 2017
 
@@ -100,7 +110,7 @@ Aug. 2017 - Sept. 2017
 
 Supervisor: Huoxiong Wu, XMU
 
-- Learned R language & LaTeX
+- Learned LaTeX, R language, Matlab
 
 - Completed a paper about CT imaging
 
