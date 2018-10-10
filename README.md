@@ -30,7 +30,7 @@ GRE Sub-Chem: 910, 99%
 
 ## Academic Experience
 
-### Research towards total synthesis of phainanoid A
+### Research towards Total Synthesis of Phainanoid A
 
 Jul. 2018 - Oct. 2018
 
@@ -44,7 +44,9 @@ Supervisor: Prof. Guangbin Dong, University of Chicago
 
 - ee measurement with HPLC
 
-### Research towards total synthesis of Atkamine
+![image](/yiliny.github.io/Ph.pdf)
+
+### Research towards Total Synthesis of Atkamine
 
 Jan. 2018 - May. 2018
 
@@ -54,7 +56,9 @@ Supervisor: Prof. Yandong Zhang, XMU
 
 - Attempted visible-light-driven thiocarboxylation
 
-### Research towards total synthesis of (–)-Actinophyllic acid
+![image](/yiliny.github.io/sul.pdf)
+
+### Research towards Total Synthesis of (–)-Actinophyllic acid
 
 Jul. 2016 - Jan. 2018
 
