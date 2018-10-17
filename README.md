@@ -12,7 +12,7 @@ Xiamen University (XMU)
 
 Major: Chemistry
 
-Overall GPA: 3.89/4
+Overall GPA: 3.88/4
 
 Rank: 1/128
 
@@ -30,6 +30,18 @@ GRE Sub-Chem: 910, 99%
 
 ## Academic Experience
 
+### Research towards Total Synthesis of Atkamine
+
+Jan. 2018 - Present
+
+Supervisor: Prof. Yandong Zhang, XMU
+
+- Ox-Red-Ox transformation in tandem
+
+- Attempted visible-light-driven thiocarboxylation
+
+![image](/yiliny.github.io/sul.pdf)
+
 ### Research towards Total Synthesis of Phainanoid A
 
 Jul. 2018 - Oct. 2018
@@ -45,18 +57,6 @@ Supervisor: Prof. Guangbin Dong, University of Chicago
 - ee measurement with HPLC
 
 ![image](/yiliny.github.io/Ph.pdf)
-
-### Research towards Total Synthesis of Atkamine
-
-Jan. 2018 - May. 2018
-
-Supervisor: Prof. Yandong Zhang, XMU
-
-- Ox-Red-Ox transformation in tandem
-
-- Attempted visible-light-driven thiocarboxylation
-
-![image](/yiliny.github.io/sul.pdf)
 
 ### Research towards Total Synthesis of (–)-Actinophyllic acid
 
