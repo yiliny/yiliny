@@ -88,7 +88,7 @@ Supervisor: Prof. Yandong Zhang, XMU
 
 - Core skeleton of (–)-actinophyllic acid completed
 
-![image](/yiliny.github.io/路线精简.pdf)
+![image](/yiliny.github.io/Actinophyllic Acid.pdf)
 
 ## Other Experiences
 
