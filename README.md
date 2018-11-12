@@ -1,6 +1,6 @@
 # Yilin Ye
 
-Department of Chemistry, Xiamen University, Fujian, Xiamen, China
+Department of Chemistry, Xiamen University, Xiamen, Fujian, P.R.China
 
 Tel: +86 13030880160
 
@@ -10,15 +10,21 @@ E-mail: yyl.libri@gmail.com
 
 Xiamen University (XMU)
 
-Major: Chemistry
+Bachelor Candidate (Sept. 2015 - Present)
+
+1<sup>st</sup> Year: Chemical Engineering Major
+
+2<sup>nd</sup> - 4<sup>th</sup> Year: Chemistry Major
 
 Overall GPA: 3.88/4
+
+Major GPA: 3.96/4
 
 Rank: 1/128
 
 TOEFL: 103 (R28, L25, S23, W27)
 
-GRE General: 154/V+169/Q+3.5/AW
+GRE General: 323 (V154, Q169) + AW3.5
 
 GRE Sub-Chem: 910, 99%
 
@@ -36,23 +42,29 @@ Jan. 2018 - Present
 
 Supervisor: Prof. Yandong Zhang, XMU
 
-- Ox-Red-Ox transformation in tandem
+- A pyrroloiminoquinone alkaloid with strained heterocyclic rings fused with benzothiophene
 
-- Attempted visible-light-driven thiocarboxylation
+- Ox-red-ox conversion in tandem
+
+- Visible-light-driven thiocarboxylation attempted
 
 ![image](/yiliny.github.io/sul.pdf)
 
 ### Research towards Total Synthesis of Phainanoid A
 
-Jul. 2018 - Oct. 2018
+Jul. 2018 - Sept. 2018
 
-Supervisor: Prof. Guangbin Dong, University of Chicago
+Supervisor: Prof. Guangbin Dong, The University of Chicago
+
+- A triterpenoid with potent immunosuppressive activity
 
 - Decagram-scale Grignard reaction and Johnson-Claisen rearrangement
 
-- Ester condensation yield improvement
+- Purified chiral auxiliary by recrystalization
 
-- Stereoselective radical cascade reaction with chiral auxiliary for 6-6-5 tricyclic system
+- Yield improvement for ester condensation
+
+- Stereoselective cascade reaction with chiral auxiliary for tricyclic system
 
 - ee measurement with HPLC
 
@@ -64,15 +76,17 @@ Jul. 2016 - Jan. 2018
 
 Supervisor: Prof. Yandong Zhang, XMU
 
-- Decagram-scale [3+2] cycloaddition reaction and separation process
+- An indole monoterpene with a caged-like scaffold and five contiguous stereogenic centers
 
-- Mastered reductive decyanation reaction
+- Decagram-scale [3+2] cycloaddition and then reductive decyanation for pyrrolidine
 
-- Various protecting-group transformations
+- Various protecting group transformations
 
-- Catellani-type alkylation of indole for eight-membered lactamization
+- Catellani-type alkylation at C2 atom of indole
 
-- Completed core skeleton of (–)-actinophyllic acid
+- Eight-membered lactamization
+
+- Core skeleton of (–)-actinophyllic acid completed
 
 ![image](/yiliny.github.io/路线精简.pdf)
 
@@ -84,9 +98,9 @@ Feb. 2018
 
 Supervisor: Zhong Tan, XMU
 
-- Difference equation model
+- Worldwide contest about mathematical modelling
 
--	Completed a paper about population prediction
+- A paper about population prediction by difference equation completed with partners
 
 - Designated as **Honorable Mention**
 
@@ -98,15 +112,21 @@ Mar. 2017 - Nov. 2017
 
 Supervisor: Baishan Fang, XMU
 
-- Invovled as an advisor
+- Worldwide contest about "Synthetic Biology" held by MIT
 
-- T7 amplifying system to detect arsenic pollution
+- Required to build active parts from basic bio-bricks
 
-- XMU-China Team won the **Gold Award** in 2017
+- Contributing an idea of T7 amplifying system to detect heavy metal pollution
 
 ![image](/yiliny.github.io/XMU-China presentation.pdf)
 
+- Granted **Gold Award** as an advisor of XMU-China team in 2017
+
 ![image](/yiliny.github.io/iGEM - XMU 2017.pdf)
+
+- Granted **Gold Award** as an advisor of XMU-China team in 2018
+
+![image](/yiliny.github.io/iGEM - XMU 2018.pdf)
 
 ### China Undergraduate Mathematical Contest in Modelling (CUMCM)
 
@@ -114,9 +134,9 @@ Aug. 2017 - Sept. 2017
 
 Supervisor: Huoxiong Wu, XMU
 
-- Learned LaTeX, R language, Matlab
+- Learned LaTeX, R, Matlab
 
-- Completed a paper about CT imaging
+- A paper about CT imaging by non-linear fitting completed with partners
 
 - Designated as **First Prize** of Fujian Province
 
