@@ -70,7 +70,7 @@ Supervisor: Prof. Guangbin Dong, The University of Chicago
 
 ![image](/yiliny.github.io/Ph.pdf)
 
-### Research towards Total Synthesis of (–)-Actinophyllic acid
+### Research towards Total Synthesis of (–)-Actinophyllic Acid
 
 Jul. 2016 - Jan. 2018
 
@@ -139,6 +139,32 @@ Supervisor: Huoxiong Wu, XMU
 - A paper about CT imaging by non-linear fitting completed with partners
 
 - Designated as **First Prize** of Fujian Province
+
+## Selected Coursework
+
+- Calculus: A+, A+
+
+- University Physics: A+, A+
+
+- Inorganic Chemistry: A, A
+
+- Organic Chemistry: A+, A+
+
+- Analytical Chemistry: A, A
+
+- Structural Chemistry: A+
+
+- Biochemistry: A+
+
+- Physical Chemistry: A, A
+
+- Polymer Chemistry: A
+
+- Intermediate Inorganic Chemistry: A+
+
+- Advanced Organic Chemistry: A+
+
+- Preliminary Statistical Thermodynamics: A+
 
 ## Selected Awards
 
