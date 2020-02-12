@@ -16,8 +16,11 @@ MS Candidate (Sept. 2019 - Present)
 
 Bachelor Degree (Sept. 2015 - Jun. 2019)
 > 1<sup>st</sup> Year: Chemical Engineering Major
+
 > 2<sup>nd</sup> - 4<sup>th</sup> Year: Chemistry Major
+
 > Overall GPA: 3.88/4
+
 > Major GPA: 3.96/4
 
 TOEFL: 103 (R28, L25, S23, W27)
@@ -96,11 +99,11 @@ Feb. 2018
 
 Supervisor: Zhong Tan, XMU
 
-- Worldwide contest about mathematical modelling
+>- Worldwide contest about mathematical modelling
 
-- A paper about population prediction by difference equation completed with partners
+>- A paper about population prediction by difference equation completed with partners
 
-- Designated as **Honorable Mention**
+>- Designated as **Honorable Mention**
 
 ![image](/yiliny.github.io/88382.pdf)
 
@@ -110,19 +113,19 @@ Mar. 2017 - Nov. 2017
 
 Supervisor: Baishan Fang, XMU
 
-- Worldwide contest about "Synthetic Biology" held by MIT
+>- Worldwide contest about "Synthetic Biology" held by MIT
 
-- Required to build active parts from basic bio-bricks
+>- Required to build active parts from basic bio-bricks
 
-- Contributing an idea of T7 amplifying system to detect heavy metal pollution
+>- Contributing an idea of T7 amplifying system to detect heavy metal pollution
 
 ![image](/yiliny.github.io/XMU-China presentation.pdf)
 
-- Granted **Gold Award** as an advisor of XMU-China team in 2017
+>- Granted **Gold Award** as an advisor of XMU-China team in 2017
 
 ![image](/yiliny.github.io/iGEM - XMU 2017.pdf)
 
-- Granted **Gold Award** as an advisor of XMU-China team in 2018
+>- Granted **Gold Award** as an advisor of XMU-China team in 2018
 
 ![image](/yiliny.github.io/iGEM - XMU 2018.pdf)
 
@@ -132,11 +135,11 @@ Aug. 2017 - Sept. 2017
 
 Supervisor: Huoxiong Wu, XMU
 
-- Learned LaTeX, R, Matlab
+>- Learned LaTeX, R, Matlab
 
-- A paper about CT imaging by non-linear fitting completed with partners
+>- A paper about CT imaging by non-linear fitting completed with partners
 
-- Designated as **First Prize** of Fujian Province
+>- Designated as **First Prize** of Fujian Province
 
 ## Selected Awards
 
