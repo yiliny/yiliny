@@ -14,7 +14,7 @@ MS Candidate (Sept. 2019 - Present)
 
 **Xiamen University** (XMU)
 
-Bachelor Degree (Sept. 2015 - Jun. 2019)
+Bachelor of Chemistry (Sept. 2015 - Jun. 2019)
 > 1<sup>st</sup> Year: Chemical Engineering Major
 
 > 2<sup>nd</sup> - 4<sup>th</sup> Year: Chemistry Major
