@@ -8,21 +8,17 @@ E-mail: yyl.libri@gmail.com
 
 ## Education
 
-**École Normale Superieure de Paris** (ENS Paris)
+**École Normale Supérieure de Paris** (ENS Paris)
 
 MS Candidate (Sept. 2019 - Present)
 
 **Xiamen University** (XMU)
 
 Bachelor Degree (Sept. 2015 - Jun. 2019)
-
-1<sup>st</sup> Year: Chemical Engineering Major
-
-2<sup>nd</sup> - 4<sup>th</sup> Year: Chemistry Major
-
-Overall GPA: 3.88/4
-
-Major GPA: 3.96/4
+> 1<sup>st</sup> Year: Chemical Engineering Major
+> 2<sup>nd</sup> - 4<sup>th</sup> Year: Chemistry Major
+> Overall GPA: 3.88/4
+> Major GPA: 3.96/4
 
 TOEFL: 103 (R28, L25, S23, W27)
 
@@ -44,11 +40,11 @@ Jan. 2018 - May 2019
 
 Supervisor: Prof. Yandong Zhang, XMU
 
-- A pyrroloiminoquinone alkaloid with strained heterocyclic rings fused with benzothiophene
+>- A pyrroloiminoquinone alkaloid with strained heterocyclic rings fused with benzothiophene
 
-- Ox-red-ox conversion in tandem
+>- Ox-red-ox conversion in tandem
 
-- Visible-light-driven thiocarboxylation attempted
+>- Visible-light-driven thiocarboxylation attempted
 
 ![image](/yiliny.github.io/sul.pdf)
 
@@ -58,17 +54,17 @@ Jul. 2018 - Sept. 2018
 
 Supervisor: Prof. Guangbin Dong, The University of Chicago
 
-- A triterpenoid with potent immunosuppressive activity
+>- A triterpenoid with potent immunosuppressive activity
 
-- Decagram-scale Grignard reaction and Johnson-Claisen rearrangement
+>- Decagram-scale Grignard reaction and Johnson-Claisen rearrangement
 
-- Purified chiral auxiliary by recrystalization
+>- Purified chiral auxiliary by recrystalization
 
-- Yield improvement for ester condensation
+>- Yield improvement for ester condensation
 
-- Stereoselective cascade reaction with chiral auxiliary for tricyclic system
+>- Stereoselective cascade reaction with chiral auxiliary for tricyclic system
 
-- ee measurement with HPLC
+>- ee measurement with HPLC
 
 ![image](/yiliny.github.io/Ph.pdf)
 
@@ -78,17 +74,17 @@ Jul. 2016 - Jan. 2018
 
 Supervisor: Prof. Yandong Zhang, XMU
 
-- An indole monoterpene with a caged-like scaffold and five contiguous stereogenic centers
+>- An indole monoterpene with a caged-like scaffold and five contiguous stereogenic centers
 
-- Decagram-scale [3+2] cycloaddition and then reductive decyanation for pyrrolidine
+>- Decagram-scale [3+2] cycloaddition and then reductive decyanation for pyrrolidine
 
-- Various protecting group transformations
+>- Various protecting group transformations
 
-- Catellani-type alkylation at C2 atom of indole
+>- Catellani-type alkylation at C2 atom of indole
 
-- Eight-membered lactamization
+>- Eight-membered lactamization
 
-- Core skeleton of (–)-actinophyllic acid completed
+>- Core skeleton of (–)-actinophyllic acid completed
 
 ![image](/yiliny.github.io/Actinophyllic Acid.pdf)
 
