@@ -1,16 +1,20 @@
-# Yilin Ye
+# Yilin YE
 
-Department of Chemistry, Xiamen University, Xiamen, Fujian, P.R.China
+Department of Chemistry, ENS Paris, Paris, France
 
-Tel: +86 13030880160
+Tel: +86 13030880160, +33 07 86 45 67 56
 
 E-mail: yyl.libri@gmail.com
 
 ## Education
 
-Xiamen University (XMU)
+**École Normale Superieure de Paris** (ENS Paris)
 
-Bachelor Candidate (Sept. 2015 - Present)
+MS Candidate (Sept. 2019 - Present)
+
+**Xiamen University** (XMU)
+
+Bachelor Degree (Sept. 2015 - Jun. 2019)
 
 1<sup>st</sup> Year: Chemical Engineering Major
 
@@ -19,8 +23,6 @@ Bachelor Candidate (Sept. 2015 - Present)
 Overall GPA: 3.88/4
 
 Major GPA: 3.96/4
-
-Rank: 1/128
 
 TOEFL: 103 (R28, L25, S23, W27)
 
@@ -38,7 +40,7 @@ GRE Sub-Chem: 910, 99%
 
 ### Research towards Total Synthesis of Atkamine
 
-Jan. 2018 - Present
+Jan. 2018 - May 2019
 
 Supervisor: Prof. Yandong Zhang, XMU
 
@@ -140,33 +142,11 @@ Supervisor: Huoxiong Wu, XMU
 
 - Designated as **First Prize** of Fujian Province
 
-## Selected Coursework
-
-- Calculus: A+, A+
-
-- University Physics: A+, A+
-
-- Inorganic Chemistry: A, A
-
-- Organic Chemistry: A+, A+
-
-- Analytical Chemistry: A, A
-
-- Structural Chemistry: A+
-
-- Biochemistry: A+
-
-- Physical Chemistry: A, A
-
-- Polymer Chemistry: A
-
-- Intermediate Inorganic Chemistry: A+
-
-- Advanced Organic Chemistry: A+
-
-- Preliminary Statistical Thermodynamics: A+
-
 ## Selected Awards
+
+- Outstanding Graduate	Jun. 2019
+
+- National Scholarship (2 in 128)	Nov. 2018
 
 - Wenqing Scholarship (18 in 14181)  Apr. 2018
 
@@ -174,3 +154,16 @@ Supervisor: Huoxiong Wu, XMU
 
 - National Scholarship (2 in 95)	Nov. 2016
 
+%## Selected Coursework
+%- Calculus: A+, A+
+%- University Physics: A+, A+
+%- Inorganic Chemistry: A, A
+%- Organic Chemistry: A+, A+
+%- Analytical Chemistry: A, A
+%- Structural Chemistry: A+
+%- Biochemistry: A+
+%- Physical Chemistry: A, A
+%- Polymer Chemistry: A
+%- Intermediate Inorganic Chemistry: A+
+%- Advanced Organic Chemistry: A+
+%- Preliminary Statistical Thermodynamics: A+
