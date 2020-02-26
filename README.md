@@ -37,6 +37,16 @@ GRE Sub-Chem: 910, 99%
 
 ## Academic Experience
 
+### From Molecular Simulation to Machine Learning: Scientific Programming and Computational Chemistry
+
+Feb. 2020
+
+Supervisor: Prof. Rodolphe Vuilleumier, ENS
+
+> Energy calculation and IR simulation with ORCA.app
+
+> Coefficient fitting with machine learning
+
 ### Research towards Total Synthesis of Atkamine
 
 Jan. 2018 - May 2019
