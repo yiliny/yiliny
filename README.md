@@ -12,6 +12,10 @@ E-mail: yyl.libri@gmail.com
 
 MS Candidate (Sept. 2019 - Present)
 
+**University of Chicago** (UChicago)
+
+Visiting Student (Jul. - Sept. 2018)
+
 **Xiamen University** (XMU)
 
 Bachelor of Chemistry (Sept. 2015 - Jun. 2019)
@@ -65,7 +69,7 @@ Supervisor: Prof. Yandong Zhang, XMU
 
 Jul. 2018 - Sept. 2018
 
-Supervisor: Prof. Guangbin Dong, The University of Chicago
+Supervisor: Prof. Guangbin Dong, UChicago
 
 >- A triterpenoid with potent immunosuppressive activity
 
