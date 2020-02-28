@@ -39,7 +39,7 @@ GRE Sub-Chem: 910, 99%
 
 ![image](/yiliny.github.io/GA.pdf)
 
-## Academic Experience
+## Academic Experiences
 
 ### From Molecular Simulation to Machine Learning: Scientific Programming and Computational Chemistry
 
@@ -52,6 +52,7 @@ Supervisor: Prof. Rodolphe Vuilleumier, ENS
 > Coefficient fitting with machine learning
 
 ### Research towards Total Synthesis of Atkamine
+(Undergraduate thesis)
 
 Jan. 2018 - May 2019
 
