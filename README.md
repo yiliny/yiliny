@@ -10,7 +10,7 @@ E-mail: yyl.libri@gmail.com
 
 **École Normale Supérieure de Paris** (ENS Paris)
 
-MS Candidate (Sept. 2019 - Present)
+Admitted by International Selection (Sept. 2019 - Present)
 
 **University of Chicago** (UChicago)
 
@@ -42,6 +42,18 @@ GRE Sub-Chem: 910, 99%
 ![image](/yiliny.github.io/GA.pdf)
 
 ## Academic Experiences
+
+### Simulation of the vibrational ICD on model systems with reduced dimensions (Online internship due to COVID)
+
+Jun. 2020 - Jul. 2020
+
+Supervisor: Prof. Jérémie Caillat, LCPMR, Sorbonne Université
+
+> Numerical solutions of wave-functions by FORTRAN
+
+> Time-dependent evolution program with the algorithm of Thomas
+
+> Simulations of Vibrational Intermolecular Coulombic Decay (Vib-ICD)
 
 ### From Molecular Simulation to Machine Learning: Scientific Programming and Computational Chemistry
 
