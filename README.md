@@ -8,9 +8,19 @@ E-mail: yyl.libri@gmail.com
 
 ## Education
 
-**École Normale Supérieure de Paris** (ENS Paris)
+**École Normale Supérieure** (ENS)
 
-Admitted by International Selection (Sept. 2019 - Present)
+M1, Département de Chimie, 2021-2022
+
+Suspension, 2020-2021
+
+DENS (L'année blanche), 2019-2020
+
+Admitted by International Selection (2019)
+
+**Hunan University** (HNU)
+
+Visiting Student (Sept. 2020 - Aug. 2021)
 
 **University of Chicago** (UChicago)
 
