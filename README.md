@@ -49,7 +49,7 @@ GRE Sub-Chem: 910, 99%
 
 · J. Li; **Y. Ye**; Y. Zhang, _Org. Chem. Front_., **2018**, _5_, 864-892. [doi](http://pubs.rsc.org/en/Content/ArticleLanding/2018/QO/C7QO01077J)
 
-![alt_text](/yiliny.github.io/GA.pdf)
+![image](https://yiliny.github.io/GA.pdf)
 
 ## Academic Experiences
 
