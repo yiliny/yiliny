@@ -45,11 +45,11 @@ GRE Sub-Chem: 910, 99%
 
 ## Publication
 
-2. Zhang, F.; Niu, Y.; Hong, D.; **Ye, Y.**; Hua, Y.; Ding, S.; Zhang, Y. Synthetic Studies towards Atkamine. _Chinese Chemical Letters_, **2020**, _31_, [doi](https://www.sciencedirect.com/science/article/abs/pii/S1001841720303466)
+· Zhang, F.; Niu, Y.; Hong, D.; **Ye, Y.**; Hua, Y.; Ding, S.; Zhang, Y. Synthetic Studies towards Atkamine. _Chinese Chemical Letters_, **2020**, _31_, [doi](https://www.sciencedirect.com/science/article/abs/pii/S1001841720303466)
 
-1. J. Li; **Y. Ye**; Y. Zhang, _Org. Chem. Front_., **2018**, _5_, 864-892. [doi](http://pubs.rsc.org/en/Content/ArticleLanding/2018/QO/C7QO01077J)
+· J. Li; **Y. Ye**; Y. Zhang, _Org. Chem. Front_., **2018**, _5_, 864-892. [doi](http://pubs.rsc.org/en/Content/ArticleLanding/2018/QO/C7QO01077J)
 
-![image](/yiliny.github.io/GA.pdf)
+![alt_text](/yiliny.github.io/GA.pdf)
 
 ## Academic Experiences
 
