@@ -49,7 +49,8 @@ GRE Sub-Chem: 910, 99%
 
 · J. Li; **Y. Ye**; Y. Zhang, _Org. Chem. Front_., **2018**, _5_, 864-892. [doi](http://pubs.rsc.org/en/Content/ArticleLanding/2018/QO/C7QO01077J)
 
-![image](https://yiliny.github.io/GA.pdf)
+![image](https://github.com/yiliny/yiliny.github.io/GA.pdf)
+
 
 ## Academic Experiences
 
@@ -88,7 +89,7 @@ Supervisor: Prof. Yandong Zhang, XMU
 
 >- Visible-light-driven thiocarboxylation attempted
 
-![image](/yiliny.github.io/sul.pdf)
+![image](https://github.com/yiliny/yiliny.github.io/sul.pdf)
 
 ### Research towards Total Synthesis of Phainanoid A
 
@@ -108,7 +109,7 @@ Supervisor: Prof. Guangbin Dong, UChicago
 
 >- ee measurement with HPLC
 
-![image](/yiliny.github.io/Ph.pdf)
+![image](https://github.com/yiliny/yiliny.github.io/Ph.pdf)
 
 ### Research towards Total Synthesis of (–)-Actinophyllic Acid
 
@@ -128,7 +129,7 @@ Supervisor: Prof. Yandong Zhang, XMU
 
 >- Core skeleton of (–)-actinophyllic acid completed
 
-![image](/yiliny.github.io/Actinophyllic Acid.pdf)
+![image](https://github.com/yiliny/yiliny.github.io/Actinophyllic Acid.pdf)
 
 ## Other Experiences
 
@@ -144,7 +145,7 @@ Supervisor: Zhong Tan, XMU
 
 >- Designated as **Honorable Mention**
 
-![image](/yiliny.github.io/88382.pdf)
+![image](https://github.com/yiliny/yiliny.github.io/88382.pdf)
 
 ### International Genetically Engineered Machine Competition (iGEM)
 
@@ -158,15 +159,15 @@ Supervisor: Baishan Fang, XMU
 
 >- Contributing an idea of T7 amplifying system to detect heavy metal pollution
 
-![image](/yiliny.github.io/XMU-China presentation.pdf)
+![image](https://github.com/yiliny/yiliny.github.io/XMU-China presentation.pdf)
 
 >- Granted **Gold Award** as an advisor of XMU-China team in 2017
 
-![image](/yiliny.github.io/iGEM - XMU 2017.pdf)
+![image](https://github.com/yiliny/yiliny.github.io/iGEM - XMU 2017.pdf)
 
 >- Granted **Gold Award** as an advisor of XMU-China team in 2018
 
-![image](/yiliny.github.io/iGEM - XMU 2018.pdf)
+![image](https://github.com/yiliny/yiliny.github.io/iGEM - XMU 2018.pdf)
 
 ### China Undergraduate Mathematical Contest in Modelling (CUMCM)
 
