@@ -58,7 +58,7 @@ GRE Sub-Chem: 910, 99%
 
 ## Academic Experiences
 
-### Study of ![formula](https://render.githubusercontent.com/render/math?math=\eta \rightarrow \pi^+ \pi^- \gamma) and ![formula](https://render.githubusercontent.com/render/math?math=\eta \rightarrow \pi^+ \pi^- \ell^+ \ell^-) Decays by Effective Field Theory
+### Study of ![formula](https://render.githubusercontent.com/render/math?math=\eta \rightarrow \pi^{+} \pi^{-} \gamma) and ![formula](https://render.githubusercontent.com/render/math?math=\eta \rightarrow \pi^{+} \pi^{-} \ell^{+} \ell^{-}) Decays by Effective Field Theory
 
 ![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
