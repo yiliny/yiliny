@@ -236,15 +236,15 @@ Supervisor: Huoxiong WU, XMU
 
 
 %## Selected Coursework
-%- Calculus: A+, A+
-%- University Physics: A+, A+
-%- Inorganic Chemistry: A, A
-%- Organic Chemistry: A+, A+
-%- Analytical Chemistry: A, A
-%- Structural Chemistry: A+
-%- Biochemistry: A+
-%- Physical Chemistry: A, A
-%- Polymer Chemistry: A
-%- Intermediate Inorganic Chemistry: A+
-%- Advanced Organic Chemistry: A+
-%- Preliminary Statistical Thermodynamics: A+
+%- Calculus: A+, A+;
+%- University Physics: A+, A+;
+%- Inorganic Chemistry: A, A;
+%- Organic Chemistry: A+, A+;
+%- Analytical Chemistry: A, A;
+%- Structural Chemistry: A+;
+%- Biochemistry: A+;
+%- Physical Chemistry: A, A;
+%- Polymer Chemistry: A;
+%- Intermediate Inorganic Chemistry: A+;
+%- Advanced Organic Chemistry: A+;
+%- Preliminary Statistical Thermodynamics: A+;
