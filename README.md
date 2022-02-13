@@ -131,9 +131,9 @@ Jul. 2018 ~ Sept. 2018
 
 Supervisor: Prof. Guangbin DONG, UChicago
 
-· A triterpenoid with potent immunosuppressive activity
+* · A triterpenoid with potent immunosuppressive activity
 
-· Decagram-scale Grignard reaction and Johnson-Claisen rearrangement
+* Decagram-scale Grignard reaction and Johnson-Claisen rearrangement
 
 · Purified chiral auxiliary by recrystalization
 
