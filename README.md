@@ -1,10 +1,4 @@
 
-Department of Chemistry, ENS Paris, Paris, France
-
-Tel: +33 07 86 45 67 56, +86 130 3088 0160
-
-E-mail: yilin.ye@ens.psl.eu, yyl.libri@gmail.com
-
 
 
 ## Education
