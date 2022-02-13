@@ -1,4 +1,3 @@
-# Yilin YE
 
 Department of Chemistry, ENS Paris, Paris, France
 
