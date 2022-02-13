@@ -60,7 +60,9 @@ GRE Sub-Chem: 910, 99%
 
 ### Study of ![formula](https://render.githubusercontent.com/render/math?math=\eta \rightarrow \pi^{\pm} \pi^{-} \gamma) and ![formula](https://render.githubusercontent.com/render/math?math=\eta \rightarrow \pi^{\pm} \pi^{-} \ell^{+} \ell^{-}) Decays by Effective Field Theory
 
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+· Form factor and scattering amplitude calculations without or with Feyncalc@Mathematica;
+· Independent programme development with Fortran for numerical multivariate fittings;
+· 
 
 ### Simulation of the vibrational ICD on model systems with reduced dimensions (Online internship due to COVID)
 
