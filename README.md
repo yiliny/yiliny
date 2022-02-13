@@ -18,6 +18,10 @@ DENS (L'année blanche), 2019-2020
 
 Admitted by International Selection (2019)
 
+**École nationale supérieure de chimie de Paris** (ENSCP)
+
+M1, Département de Chimie, 2021-2022
+
 **Hunan University** (HNU)
 
 Visiting Student (Sept. 2020 - Aug. 2021)
@@ -53,6 +57,8 @@ GRE Sub-Chem: 910, 99%
 
 
 ## Academic Experiences
+
+### Study of $\eta \rightarrow \pi^+ \pi^- \gamma$ and $\eta \rightarrow \pi^+ \pi^- \gamma$ Decays by Effective Field Theory
 
 ### Simulation of the vibrational ICD on model systems with reduced dimensions (Online internship due to COVID)
 
