@@ -6,6 +6,8 @@ Tel: +33 07 86 45 67 56, +86 130 3088 0160
 
 E-mail: yilin.ye@ens.psl.eu, yyl.libri@gmail.com
 
+
+
 ## Education
 
 **École Normale Supérieure** (ENS)
@@ -49,20 +51,26 @@ GRE General: 323 (V154, Q169) + AW3.5
 
 GRE Sub-Chem: 910, 99%
 
-## Publication
-
-· Zhang, F.; Niu, Y.; Hong, D.; **Ye, Y.**; Hua, Y.; Ding, S.; Zhang, Y. Synthetic Studies towards Atkamine. _Chinese Chemical Letters_, **2020**, _31_, [doi](https://www.sciencedirect.com/science/article/abs/pii/S1001841720303466)
-
-· J. Li; **Y. Ye**; Y. Zhang, _Org. Chem. Front_., **2018**, _5_, 864-892. [doi](http://pubs.rsc.org/en/Content/ArticleLanding/2018/QO/C7QO01077J)
-
-![image](https://yiliny.github.io/GA.pdf)
 
 
 ## Internships
 
+### Mixing Langevin + ElastoHydroDynamics Problem
+
+Feb. 2022 ~ Jul. 2022
+
+Supervisor: Prof. Thomas SALEZ, Laboratoire Ondes et Matières d'Aquitaines (LOMA), Université de Bordeaux
+
+· 
+
+· Numerical simulations 
+
+
 ### Study of ![formula](https://render.githubusercontent.com/render/math?math=\eta \rightarrow \pi^{\pm} \pi^{-} \gamma) and ![formula](https://render.githubusercontent.com/render/math?math=\eta \rightarrow \pi^{\pm} \pi^{-} \ell^{+} \ell^{-}) Decays by Effective Field Theory
 
 Mar. 2021 ~ Aug. 2021
+
+Supervisor: Prof. Lingyun DAI & Zhen FANG, Hunan University
 
 · Form factor and scattering amplitude calculations without or with Feyncalc@Mathematica;
 
@@ -70,11 +78,12 @@ Mar. 2021 ~ Aug. 2021
 
 · 
 
+
 ### Simulation of the vibrational ICD on model systems with reduced dimensions (Online internship due to COVID)
 
 Jun. 2020 ~ Jul. 2020
 
-Supervisor: Prof. Jérémie Caillat, LCPMR, Sorbonne Université
+Supervisor: Prof. Jérémie CAILLAT, LCPMR, Sorbonne Université
 
 · Numerical solutions of wave-functions by FORTRAN
 
@@ -82,22 +91,28 @@ Supervisor: Prof. Jérémie Caillat, LCPMR, Sorbonne Université
 
 · Simulations of Vibrational Intermolecular Coulombic Decay (Vib-ICD)
 
+
 ### From Molecular Simulation to Machine Learning: Scientific Programming and Computational Chemistry
 
 Feb. 2020
 
-Supervisor: Prof. Rodolphe Vuilleumier, ENS
+Supervisor: Prof. Rodolphe VUILLEUMIER, ENS
 
 · Energy calculation and IR simulation with ORCA.app
 
 · Coefficient fitting with machine learning
 
+
+
+## Researches
+
+
 ### Research towards Total Synthesis of Atkamine
 (Undergraduate thesis)
 
-Jan. 2018 - May 2019
+Jan. 2018 ~ May 2019
 
-Supervisor: Prof. Yandong Zhang, XMU
+Supervisor: Prof. Yandong ZHANG, XMU
 
 · A pyrroloiminoquinone alkaloid with strained heterocyclic rings fused with benzothiophene
 
@@ -105,13 +120,16 @@ Supervisor: Prof. Yandong Zhang, XMU
 
 · Visible-light-driven thiocarboxylation attempted
 
+· Zhang, F.; Niu, Y.; Hong, D.; **Ye, Y.**; Hua, Y.; Ding, S.; Zhang, Y. Synthetic Studies towards Atkamine. _Chinese Chemical Letters_, **2020**, _31_, [doi](https://www.sciencedirect.com/science/article/abs/pii/S1001841720303466)
+
 ![image](https://yiliny.github.io/sul.pdf)
+
 
 ### Research towards Total Synthesis of Phainanoid A
 
-Jul. 2018 - Sept. 2018
+Jul. 2018 ~ Sept. 2018
 
-Supervisor: Prof. Guangbin Dong, UChicago
+Supervisor: Prof. Guangbin DONG, UChicago
 
 · A triterpenoid with potent immunosuppressive activity
 
@@ -127,11 +145,12 @@ Supervisor: Prof. Guangbin Dong, UChicago
 
 ![image](https://yiliny.github.io/Ph.pdf)
 
+
 ### Research towards Total Synthesis of (–)-Actinophyllic Acid
 
-Jul. 2016 - Jan. 2018
+Jul. 2016 ~ Jan. 2018
 
-Supervisor: Prof. Yandong Zhang, XMU
+Supervisor: Prof. Yandong ZHANG, XMU
 
 · An indole monoterpene with a caged-like scaffold and five contiguous stereogenic centers
 
@@ -147,13 +166,20 @@ Supervisor: Prof. Yandong Zhang, XMU
 
 ![image](https://yiliny.github.io/Actinophyllic Acid.pdf)
 
+· J. Li; **Y. Ye**; Y. Zhang, _Org. Chem. Front_., **2018**, _5_, 864-892. [doi](http://pubs.rsc.org/en/Content/ArticleLanding/2018/QO/C7QO01077J)
+
+![image](https://yiliny.github.io/GA.pdf)
+
+
+
 ## Other Experiences
+
 
 ### Mathematical Contest in Modelling (MCM)
 
 Feb. 2018
 
-Supervisor: Zhong Tan, XMU
+Supervisor: Zhong TAN, XMU
 
 · Worldwide contest about mathematical modelling
 
@@ -163,11 +189,12 @@ Supervisor: Zhong Tan, XMU
 
 ![image](https://yiliny.github.io/88382.pdf)
 
+
 ### International Genetically Engineered Machine Competition (iGEM)
 
-Mar. 2017 - Nov. 2017
+Mar. 2017 ~ Nov. 2017
 
-Supervisor: Baishan Fang, XMU
+Supervisor: Baishan FANG, XMU
 
 · Worldwide contest about "Synthetic Biology" held by MIT
 
@@ -185,17 +212,20 @@ Supervisor: Baishan Fang, XMU
 
 ![image](https://yiliny.github.io/iGEM - XMU 2018.pdf)
 
+
 ### China Undergraduate Mathematical Contest in Modelling (CUMCM)
 
-Aug. 2017 - Sept. 2017
+Aug. 2017 ~ Sept. 2017
 
-Supervisor: Huoxiong Wu, XMU
+Supervisor: Huoxiong WU, XMU
 
 · Learned LaTeX, R, Matlab
 
 · A paper about CT imaging by non-linear fitting completed with partners
 
 · Designated as **First Prize** of Fujian Province
+
+
 
 ## Selected Awards
 
@@ -208,6 +238,7 @@ Supervisor: Huoxiong Wu, XMU
 - National Scholarship (2 in 132)	Nov. 2017
 
 - National Scholarship (2 in 95)	Nov. 2016
+
 
 %## Selected Coursework
 %- Calculus: A+, A+
