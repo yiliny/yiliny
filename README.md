@@ -60,6 +60,8 @@ GRE Sub-Chem: 910, 99%
 
 ### Study of $\eta \rightarrow \pi^+ \pi^- \gamma$ and $\eta \rightarrow \pi^+ \pi^- \gamma$ Decays by Effective Field Theory
 
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+
 ### Simulation of the vibrational ICD on model systems with reduced dimensions (Online internship due to COVID)
 
 Jun. 2020 - Jul. 2020
