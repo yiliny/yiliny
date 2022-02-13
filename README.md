@@ -131,17 +131,19 @@ Jul. 2018 ~ Sept. 2018
 
 Supervisor: Prof. Guangbin DONG, UChicago
 
-* · A triterpenoid with potent immunosuppressive activity
+/* · A triterpenoid with potent immunosuppressive activity
 
 * Decagram-scale Grignard reaction and Johnson-Claisen rearrangement
 
-· Purified chiral auxiliary by recrystalization
+* · Purified chiral auxiliary by recrystalization
 
-· Yield improvement for ester condensation
+* · Yield improvement for ester condensation
 
-· Stereoselective cascade reaction with chiral auxiliary for tricyclic system
+* · Stereoselective cascade reaction with chiral auxiliary for tricyclic system
 
-· ee measurement with HPLC
+* · ee measurement with HPLC
+
+*/
 
 ![image](https://yiliny.github.io/Ph.pdf)
 
