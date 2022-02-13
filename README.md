@@ -2,37 +2,39 @@
 
 Department of Chemistry, ENS Paris, Paris, France
 
-Tel: +86 13030880160, +33 07 86 45 67 56
+Tel: +33 07 86 45 67 56, +86 130 3088 0160
 
-E-mail: yyl.libri@gmail.com
+E-mail: yilin.ye@ens.psl.eu, yyl.libri@gmail.com
 
 ## Education
 
 **École Normale Supérieure** (ENS)
 
-M1, Département de Chimie, 2021-2022
+M1, Département de Chimie, Sept. 2021 ~ Jun. 2022
 
-Suspension, 2020-2021
+Suspension for COVID-19, Sept. 2020 ~ Jun. 2021
 
-DENS (L'année blanche), 2019-2020
+DENS (L'année blanche), Sept. 2019 ~ Jun. 2020
 
-Admitted by International Selection (2019)
+Courses taken: Mathématiques pour physiciens, Électromagnétisme et Relativité, Cinétique et Réactivité, Théorie Chimie: Structure Électronique
+
+Admitted by International Selection (Promo 2019)
 
 **École nationale supérieure de chimie de Paris** (ENSCP)
 
-M1, Département de Chimie, 2021-2022
+M1, Département de Chimie, Sept. 2021 ~ Jun. 2022
 
 **Hunan University** (HNU)
 
-Visiting Student (Sept. 2020 - Aug. 2021)
+Visiting Student (Sept. 2020 ~ Aug. 2021)
 
 **University of Chicago** (UChicago)
 
-Visiting Student (Jul. - Sept. 2018)
+Visiting Student (Jul. 2018 ~ Sept. 2018)
 
 **Xiamen University** (XMU)
 
-Bachelor of Chemistry (Sept. 2015 - Jun. 2019)
+Bachelor of Chemistry (Sept. 2015 ~ Jun. 2019)
 > 1<sup>st</sup> Year: Chemical Engineering Major
 
 > 2<sup>nd</sup> - 4<sup>th</sup> Year: Chemistry Major
@@ -56,25 +58,29 @@ GRE Sub-Chem: 910, 99%
 ![image](https://yiliny.github.io/GA.pdf)
 
 
-## Academic Experiences
+## Internships
 
 ### Study of ![formula](https://render.githubusercontent.com/render/math?math=\eta \rightarrow \pi^{\pm} \pi^{-} \gamma) and ![formula](https://render.githubusercontent.com/render/math?math=\eta \rightarrow \pi^{\pm} \pi^{-} \ell^{+} \ell^{-}) Decays by Effective Field Theory
 
+Mar. 2021 ~ Aug. 2021
+
 · Form factor and scattering amplitude calculations without or with Feyncalc@Mathematica;
+
 · Independent programme development with Fortran for numerical multivariate fittings;
+
 · 
 
 ### Simulation of the vibrational ICD on model systems with reduced dimensions (Online internship due to COVID)
 
-Jun. 2020 - Jul. 2020
+Jun. 2020 ~ Jul. 2020
 
 Supervisor: Prof. Jérémie Caillat, LCPMR, Sorbonne Université
 
-> Numerical solutions of wave-functions by FORTRAN
+· Numerical solutions of wave-functions by FORTRAN
 
-> Time-dependent evolution program with the algorithm of Thomas
+· Time-dependent evolution program with the algorithm of Thomas
 
-> Simulations of Vibrational Intermolecular Coulombic Decay (Vib-ICD)
+· Simulations of Vibrational Intermolecular Coulombic Decay (Vib-ICD)
 
 ### From Molecular Simulation to Machine Learning: Scientific Programming and Computational Chemistry
 
@@ -82,9 +88,9 @@ Feb. 2020
 
 Supervisor: Prof. Rodolphe Vuilleumier, ENS
 
-> Energy calculation and IR simulation with ORCA.app
+· Energy calculation and IR simulation with ORCA.app
 
-> Coefficient fitting with machine learning
+· Coefficient fitting with machine learning
 
 ### Research towards Total Synthesis of Atkamine
 (Undergraduate thesis)
@@ -93,11 +99,11 @@ Jan. 2018 - May 2019
 
 Supervisor: Prof. Yandong Zhang, XMU
 
->- A pyrroloiminoquinone alkaloid with strained heterocyclic rings fused with benzothiophene
+· A pyrroloiminoquinone alkaloid with strained heterocyclic rings fused with benzothiophene
 
->- Ox-red-ox conversion in tandem
+· Ox-red-ox conversion in tandem
 
->- Visible-light-driven thiocarboxylation attempted
+· Visible-light-driven thiocarboxylation attempted
 
 ![image](https://yiliny.github.io/sul.pdf)
 
@@ -107,17 +113,17 @@ Jul. 2018 - Sept. 2018
 
 Supervisor: Prof. Guangbin Dong, UChicago
 
->- A triterpenoid with potent immunosuppressive activity
+· A triterpenoid with potent immunosuppressive activity
 
->- Decagram-scale Grignard reaction and Johnson-Claisen rearrangement
+· Decagram-scale Grignard reaction and Johnson-Claisen rearrangement
 
->- Purified chiral auxiliary by recrystalization
+· Purified chiral auxiliary by recrystalization
 
->- Yield improvement for ester condensation
+· Yield improvement for ester condensation
 
->- Stereoselective cascade reaction with chiral auxiliary for tricyclic system
+· Stereoselective cascade reaction with chiral auxiliary for tricyclic system
 
->- ee measurement with HPLC
+· ee measurement with HPLC
 
 ![image](https://yiliny.github.io/Ph.pdf)
 
@@ -127,17 +133,17 @@ Jul. 2016 - Jan. 2018
 
 Supervisor: Prof. Yandong Zhang, XMU
 
->- An indole monoterpene with a caged-like scaffold and five contiguous stereogenic centers
+· An indole monoterpene with a caged-like scaffold and five contiguous stereogenic centers
 
->- Decagram-scale [3+2] cycloaddition and then reductive decyanation for pyrrolidine
+· Decagram-scale [3+2] cycloaddition and then reductive decyanation for pyrrolidine
 
->- Various protecting group transformations
+· Various protecting group transformations
 
->- Catellani-type alkylation at C2 atom of indole
+· Catellani-type alkylation at C2 atom of indole
 
->- Eight-membered lactamization
+· Eight-membered lactamization
 
->- Core skeleton of (–)-actinophyllic acid completed
+· Core skeleton of (–)-actinophyllic acid completed
 
 ![image](https://yiliny.github.io/Actinophyllic Acid.pdf)
 
@@ -149,11 +155,11 @@ Feb. 2018
 
 Supervisor: Zhong Tan, XMU
 
->- Worldwide contest about mathematical modelling
+· Worldwide contest about mathematical modelling
 
->- A paper about population prediction by difference equation completed with partners
+· A paper about population prediction by difference equation completed with partners
 
->- Designated as **Honorable Mention**
+· Designated as **Honorable Mention**
 
 ![image](https://yiliny.github.io/88382.pdf)
 
@@ -163,19 +169,19 @@ Mar. 2017 - Nov. 2017
 
 Supervisor: Baishan Fang, XMU
 
->- Worldwide contest about "Synthetic Biology" held by MIT
+· Worldwide contest about "Synthetic Biology" held by MIT
 
->- Required to build active parts from basic bio-bricks
+· Required to build active parts from basic bio-bricks
 
->- Contributing an idea of T7 amplifying system to detect heavy metal pollution
+· Contributing an idea of T7 amplifying system to detect heavy metal pollution
 
 ![image](https://yiliny.github.io/XMU-China presentation.pdf)
 
->- Granted **Gold Award** as an advisor of XMU-China team in 2017
+· Granted **Gold Award** as an advisor of XMU-China team in 2017
 
 ![image](https://yiliny.github.io/iGEM - XMU 2017.pdf)
 
->- Granted **Gold Award** as an advisor of XMU-China team in 2018
+· Granted **Gold Award** as an advisor of XMU-China team in 2018
 
 ![image](https://yiliny.github.io/iGEM - XMU 2018.pdf)
 
@@ -185,11 +191,11 @@ Aug. 2017 - Sept. 2017
 
 Supervisor: Huoxiong Wu, XMU
 
->- Learned LaTeX, R, Matlab
+· Learned LaTeX, R, Matlab
 
->- A paper about CT imaging by non-linear fitting completed with partners
+· A paper about CT imaging by non-linear fitting completed with partners
 
->- Designated as **First Prize** of Fujian Province
+· Designated as **First Prize** of Fujian Province
 
 ## Selected Awards
 
