@@ -1,6 +1,11 @@
 👋 Hi, I’m Yilin YE.
+
 🙋‍♂️ BSc of Chem. from Xiamen Univ.
+
 🎩 Master de l'École Normale Superieure
-👀 I’m interested in physics simulations and programming
-🌱 I'm currently progressing in Python and Cython. I'm learning C programming.
+
+👀 Interested in physics simulations and programming
+
+🌱 Currently progressing in Fortran, Mathematica, Python.
+
 😊 欢迎 / Welcome / Bienvenue 
