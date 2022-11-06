@@ -377,3 +377,15 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+
+
+
+
+
+
+
+.someClass {
+   display: flex;
+   justify-content: space-between;
+}
