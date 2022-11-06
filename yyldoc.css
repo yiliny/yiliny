@@ -379,13 +379,3 @@ table.imgtable, table.imgtable td {
 }
 
 
-
-
-
-
-
-
-.someClass {
-   display: flex;
-   justify-content: space-between;
-}
