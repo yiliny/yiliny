@@ -378,4 +378,176 @@ table.imgtable, table.imgtable td {
     text-align: left;
 }
 
+/* Shared layout for the English, French and Chinese academic pages. */
+body.academic-site {
+    box-sizing: border-box;
+    width: calc(100% - 32px);
+    min-width: 0;
+    padding: 24px 40px;
+    line-height: 1.6;
+    overflow-wrap: anywhere;
+}
+
+.academic-site h1, .academic-site h2, .academic-site h3 {
+    line-height: 1.35;
+}
+
+.site-banner {
+    min-height: 170px;
+    display: flex;
+    align-items: end;
+    background-size: cover;
+    background-position: center;
+    margin-bottom: 16px;
+}
+
+.site-banner span {
+    margin: 16px;
+    padding: 4px 12px;
+    color: white;
+    background: rgba(0, 0, 0, 0.7);
+    font-size: 1.5rem;
+}
+
+.site-nav, .language-nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 18px;
+}
+
+.site-nav {
+    padding-bottom: 12px;
+    border-bottom: 1px solid #aaaaaa;
+}
+
+.site-nav a[aria-current="page"] {
+    font-weight: bold;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+}
+
+.language-nav {
+    justify-content: flex-end;
+    margin: 10px 0 20px;
+    font-size: 0.95rem;
+}
+
+.academic-site a:focus-visible {
+    outline: 2px solid #224b8d;
+    outline-offset: 3px;
+}
+
+.education-entry {
+    display: grid;
+    grid-template-columns: 60px minmax(0, 1fr);
+    gap: 18px;
+    margin: 20px 0 28px;
+}
+
+.institution-logo {
+    width: 60px;
+    height: auto;
+    margin-top: 14px;
+}
+
+.entry-meta {
+    color: #555555;
+    font-size: 0.95rem;
+}
+
+.publication-list {
+    padding-left: 2.5em;
+}
+
+.publication-entry, .event-entry {
+    margin-bottom: 24px;
+    scroll-margin-top: 16px;
+}
+
+.publication-entry::marker {
+    content: "[" counter(list-item) "] ";
+    color: #555555;
+}
+
+.publication-entry h3, .event-entry h3 {
+    border: none;
+    margin-bottom: 6px;
+}
+
+.publication-entry p, .event-entry p {
+    margin-bottom: 5px;
+}
+
+.publication-links {
+    font-size: 0.95rem;
+}
+
+.award {
+    color: #6c4111;
+    font-weight: bold;
+}
+
+.event-list {
+    list-style: none;
+    padding-left: 0;
+}
+
+.news-list li {
+    margin-bottom: 12px;
+}
+
+.legacy-research table.imgtable {
+    width: 100%;
+}
+
+.legacy-research table.imgtable td {
+    vertical-align: top;
+}
+
+.legacy-research img {
+    max-width: 60px;
+    height: auto;
+}
+
+.site-footer {
+    margin-top: 36px;
+    padding-top: 12px;
+    border-top: 1px solid #aaaaaa;
+    color: #555555;
+    font-size: 0.85rem;
+}
+
+@media (max-width: 640px) {
+    body.academic-site {
+        width: 100%;
+        margin: 0;
+        padding: 16px;
+    }
+
+    .site-banner {
+        min-height: 130px;
+    }
+
+    .site-nav {
+        gap: 8px 14px;
+    }
+
+    .education-entry {
+        grid-template-columns: 44px minmax(0, 1fr);
+        gap: 12px;
+    }
+
+    .institution-logo, .legacy-research img {
+        max-width: 44px;
+    }
+
+    .legacy-research table.imgtable td {
+        padding: 2px;
+    }
+
+    .legacy-research div[style*="float"] {
+        float: none !important;
+    }
+}
+
 
